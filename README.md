@@ -1,2 +1,3 @@
 # DrumKit
-Module Completed on 10-Apr-21;
+Using JS event handler;
+[link](https://yarmuhammadtalpur.github.io/DrumKit/)
